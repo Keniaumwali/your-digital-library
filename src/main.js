@@ -165,7 +165,7 @@ function renderBookCard(book) {
               ? 'border-pink-200 bg-pink-50 text-pink-800'
               : 'border-green-200 bg-green-50 text-green-900'
           }">
-          ${favorite ? 'Remove Favorite' : '♡ Add to Favorites'}
+          ${favorite ? 'Remove Favorite' : 'Add to Favorites'}
         </button>
       </div>
     </article>
